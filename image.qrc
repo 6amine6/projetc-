@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/res">
+        <file>1254.jpg</file>
+        <file>41c67711d2842d5f593cb0724ec9745c.jpg</file>
+        <file>0f4ced00-afbf-4af9-bed3-ca45754ac09b.png</file>
+        <file>eeeeeeeeeeeeee.png</file>
+        <file>dead.png</file>
+        <file>image_2024-02-14_032638980.png</file>
+        <file>no.png</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>no.png</file>
+    </qresource>
+</RCC>
